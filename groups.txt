@@ -1,0 +1,8 @@
+Group ID: 1
+Group name: Test group
+Discount: 0.8
+Group Users: 
+ID: 1
+First name: Gosho
+Last name: Gosho
+/// line separator

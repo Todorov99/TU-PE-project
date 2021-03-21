@@ -1,0 +1,12 @@
+ID: 6
+Product name: dgsdg
+Type: 
+Description: 
+Price: 4
+/// line separator
+ID: 7
+Product name: hsdh
+Type: 
+Description: 
+Price: 6.7
+/// line separator
