@@ -1,8 +1,13 @@
 Group ID: 1
-Group name: Test group
-Discount: 0.8
+Group name: Testing
+Discount: 4.55
 Group Users: 
 ID: 1
-First name: Gosho
-Last name: Gosho
+First name: Ivan
+Last name: Ivanov
+Group ID: 1
+ID: 3
+First name: Georgi
+Last name: Georgiev
+Group ID: 1
 /// line separator

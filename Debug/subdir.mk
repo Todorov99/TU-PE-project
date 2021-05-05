@@ -4,12 +4,24 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
+../BaseEntity.cpp \
+../Group.cpp \
+../Product.cpp \
+../User.cpp \
 ../main.cpp 
 
 OBJS += \
+./BaseEntity.o \
+./Group.o \
+./Product.o \
+./User.o \
 ./main.o 
 
 CPP_DEPS += \
+./BaseEntity.d \
+./Group.d \
+./Product.d \
+./User.d \
 ./main.d 
 
 

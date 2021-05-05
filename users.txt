@@ -1,8 +1,14 @@
 ID: 1
-First name: Gosho
-Last name: Gosho
+First name: Ivan
+Last name: Ivanov
+Group ID: 1
 /// line separator
 ID: 2
 First name: Petko
-Last name: Petko
+Last name: Petkov
+/// line separator
+ID: 3
+First name: Georgi
+Last name: Georgiev
+Group ID: 1
 /// line separator
